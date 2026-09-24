@@ -15,7 +15,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[Open Document Search App](YOUR_STREAMLIT_URL)**
+🔗 **[Open Document Search App]([YOUR_STREAMLIT_URL](https://docfind.streamlit.app/))**
 
 ---
 
