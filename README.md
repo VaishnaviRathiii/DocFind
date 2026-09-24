@@ -67,6 +67,7 @@ Similarity Scores
 Document Ranking
     ↓
 Relevant Documents
+```
 
 ### Step-by-Step
 
