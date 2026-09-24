@@ -1,0 +1,4 @@
+Machine learning is a branch of artificial intelligence.
+It allows computers to learn patterns from data.
+Machine learning algorithms include linear regression,
+decision trees, support vector machines and clustering.

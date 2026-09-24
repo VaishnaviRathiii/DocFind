@@ -1,0 +1,4 @@
+Computer networks allow computers and devices to communicate.
+Networks use protocols such as TCP, IP and HTTP.
+Computer networks can be classified as LAN, MAN and WAN.
+Computer networks are used to share resources and information.

@@ -1,0 +1,4 @@
+Natural language processing is a field of artificial intelligence.
+NLP allows computers to process and analyze human language.
+Applications include text classification, sentiment analysis,
+machine translation and information retrieval.
